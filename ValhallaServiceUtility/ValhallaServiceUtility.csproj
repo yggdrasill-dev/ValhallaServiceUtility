@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Valhalla.Services</RootNamespace>
+    <Authors>Phoenix</Authors>
+    <Company>Valhalla</Company>
+    <Version>0.0.1</Version>
+    <PackageProjectUrl>https://github.com/yggdrasill-dev/ValhallaServiceUtility</PackageProjectUrl>
+    <RepositoryUrl>git@github.com:yggdrasill-dev/ValhallaServiceUtility.git</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>Valhalla Services</PackageTags>
+  </PropertyGroup>
+
+</Project>
